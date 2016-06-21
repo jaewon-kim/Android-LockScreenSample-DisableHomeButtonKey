@@ -16,6 +16,7 @@ public class LockScreenView extends RelativeLayout {
         super(context);
         mActivityContext = context;
         initView();
+//        initView();
     }
 
     public LockScreenView(Context context, AttributeSet attrs) {
